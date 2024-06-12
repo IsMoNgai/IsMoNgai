@@ -1,5 +1,7 @@
 Hi 👋, I'm Mo Ngai
+
 I'm a Computer Engineering student at the University of British Columbia
+
 🔭 I’m currently working on shoppy (a E-commerce web app)
 
 🌱 I’m currently learning computer vision and machine learning
