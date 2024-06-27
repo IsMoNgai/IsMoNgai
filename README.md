@@ -54,7 +54,7 @@
     <td>Databases</td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
-      <img src="https://img.shields.io/badge/MongoDB-%23039BE5.svg?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ I've competed in several hackathons to solve real-world problems.
 
 To see my projects and achievements, check out my Devpost profile:
 
-[![Devpost](https://devpost.com/IsMoNgai?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)]
+[![Devpost](https://img.shields.io/badge/Devpost-Profile-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/IsMoNgai?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 **Frequently Used Technologies:**
 
