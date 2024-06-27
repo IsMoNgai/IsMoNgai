@@ -54,7 +54,7 @@
     <td>Databases</td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
-      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/MongoDB-%23039BE5.svg?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
