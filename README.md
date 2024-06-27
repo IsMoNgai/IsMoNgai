@@ -1,72 +1,87 @@
-Hi 👋, I'm Mo Ngai
+### Hi there, I'm Mo Ngai 👋
 
-I'm a Computer Engineering student at the University of British Columbia
+![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
+![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
 
-🔭 I’m currently working on shoppy (a E-commerce web app)
+### About Me
 
-🌱 I’m currently learning computer vision and machine learning
+- 👋 Hi, I'm Mo! I'm a maker and AI enthusiast.
+- 🎓 Computer Engineering at UBC
+- 🛠️ I'm currently learning ML and AI.
+- ⚡ Check out my <a href="https://www.linkedin.com/in/mo-ngai-1ba059266/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> 
 
-👨‍💻 All of my projects are available at https://ismongai.github.io/mo-portfolio/
+### ⚡ Languages and Frameworks
+<table>
+  <tr>
+    <td>Programming Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+    </td>
+  </tr>
 
-💬 Ask me about Computer Engineering in UBC!
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
 
-📫 How to reach me mongaiwaiyin@gmail.com
+  <tr>
+    <td>Styling</td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-0.135.0-blue"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-</p>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td>Databases</td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Machine Learning Libraries</td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
+     </td>
+  </tr>
+</table>
+
+
+### 🏆 Hackathon Experiences
+I've competed in several hackathons to solve real-world problems.
+
+To see my projects and achievements, check out my Devpost profile:
+
+[![Devpost](https://devpost.com/IsMoNgai?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+**Frequently Used Technologies:**
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+## 🤝Connect with me!!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mo-ngai-1ba059266/)
