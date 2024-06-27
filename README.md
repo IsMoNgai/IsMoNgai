@@ -51,7 +51,7 @@
     <td>Databases</td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
-      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/MongoDB-%2347A200.svg?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
@@ -65,10 +65,10 @@
   <tr>
     <td>Hardware</td>
     <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
-     </td>
+      <img src="https://img.shields.io/badge/Verilog-5C87B2?style=flat-square&logo=verilog&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SystemVerilog-4285F4?style=flat-square&logo=systemverilog&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Quartus-0081CD?style=flat-square&logo=quartus&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td>Other libraries</td>
