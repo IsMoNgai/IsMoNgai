@@ -27,7 +27,7 @@
     <td>Frontend</td>
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
-      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-%001E2B.svg?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
     </td>
@@ -73,7 +73,7 @@ I've competed in several hackathons to solve real-world problems.
 
 To see my projects and achievements, check out my Devpost profile:
 
-[![Devpost](https://devpost.com/IsMoNgai?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![Devpost](https://devpost.com/IsMoNgai?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)]
 
 **Frequently Used Technologies:**
 
