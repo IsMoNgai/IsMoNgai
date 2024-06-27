@@ -51,7 +51,7 @@
     <td>Databases</td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
-      <img src="https://img.shields.io/badge/MongoDB-%2347A200.svg?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/MongoDB-%03071000.svg?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
@@ -73,10 +73,17 @@
   <tr>
     <td>Other libraries</td>
     <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
-     </td>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Onshape-1A5CAA?style=flat-square&logo=onshape&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ARM_Assembly-4D4D4D?style=flat-square&logo=arm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
