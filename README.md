@@ -34,7 +34,7 @@
     <td>Styling</td>
     <td>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-0.135.0-blue"/>
+      <img src="https://img.shields.io/badge/Three.js-38B2AC.svg?style=flat-square&logo=three&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
     </td>
   </tr>
@@ -51,7 +51,7 @@
     <td>Databases</td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
-      <img src="https://img.shields.io/badge/MongoDB-%03071000.svg?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/MongoDB-232F3E.svg?style=flat-square&logo=mongodb"/>
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td>Other libraries</td>
+    <td>Other libraries & tools</td>
     <td>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
