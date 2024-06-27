@@ -1,8 +1,5 @@
 ### Hi there, I'm Mo Ngai 👋
 
-![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
-![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
-
 ### About Me
 
 - 👋 Hi, I'm Mo! I'm a maker and AI enthusiast.
